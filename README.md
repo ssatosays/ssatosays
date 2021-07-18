@@ -1,5 +1,11 @@
-- :wave: Hi, I’m @ssatosays
-- :eyes: I’m interested in ...
-- :seedling: I’m currently learning ...
-- :revolving_hearts: I’m looking to collaborate on ...
-- :email: How to reach me ...
+Hi, I’m @ssatosays  :wave:  
+
++ Blog
+  - [https://ssatosays.github.io/blog/](https://ssatosays.github.io/blog/)
++ Twitter
+  - [@ssatosays](https://twitter.com/ssatosays)
++ Email
+  - [ssatosays@gmail.com](mailto:ssatosays@gmail.com)
++ GitHub
+  - [My repositories](https://github.com/ssatosays?tab=repositories)
+  - [My gists](https://gist.github.com/ssatosays)
