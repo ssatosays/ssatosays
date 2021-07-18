@@ -7,5 +7,6 @@ Hi, I’m @ssatosays  :wave:
 + Email
   - [ssatosays@gmail.com](mailto:ssatosays@gmail.com)
 + GitHub
+  - [My Profile](https://github.com/ssatosays)
   - [My repositories](https://github.com/ssatosays?tab=repositories)
   - [My gists](https://gist.github.com/ssatosays)
