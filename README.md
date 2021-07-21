@@ -11,3 +11,5 @@ Hi, I’m @ssatosays  :wave:
   - [My repositories](https://github.com/ssatosays?tab=repositories)
   - [My stars](https://github.com/ssatosays?tab=stars)
   - [My gists](https://gist.github.com/ssatosays)
++ Qiita
+  - [@ssatosays](https://qiita.com/ssatosays)
