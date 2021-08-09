@@ -1,4 +1,4 @@
-Hi, I’m @ssatosays  :wave:  
+Hi, I’m @ssatosays  :wave: :wave:
 
 + Blog
   - [https://ssatosays.github.io/blog/](https://ssatosays.github.io/blog/)
