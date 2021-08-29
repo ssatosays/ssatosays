@@ -13,5 +13,5 @@ Hi, I’m @ssatosays  :wave: :wave:
   - [@ssatosays](https://qiita.com/ssatosays)
 + Blog
   - [https://ssatosays.github.io/blog/](https://ssatosays.github.io/blog/)
-+ About(Blog)
++ About Me
   - [https://ssatosays.github.io/blog/aboutme/](https://ssatosays.github.io/blog/aboutme/)
