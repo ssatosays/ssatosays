@@ -1,7 +1,7 @@
 Hi, I’m @ssatosays  :wave: :wave:
 
 + GitHub
-  - [My Profile](https://github.com/ssatosays)
+  - [My profile](https://github.com/ssatosays)
   - [My repositories](https://github.com/ssatosays?tab=repositories)
   - [My stars](https://github.com/ssatosays?tab=stars)
   - [My gists](https://gist.github.com/ssatosays)
