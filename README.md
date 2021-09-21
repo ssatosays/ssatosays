@@ -18,5 +18,8 @@ Hi, I’m @ssatosays  :wave: :wave:
 
 ## My Apps
 
-+ [tetris](https://github.com/ssatosays/tetris)
-  - working :construction_worker:
++ tetris (:construction_worker:)
+  - app
+    + [https://ssatosays.github.io/tetris/](https://ssatosays.github.io/tetris/)
+  - src
+    + [https://github.com/ssatosays/tetris/](https://github.com/ssatosays/tetris/)
