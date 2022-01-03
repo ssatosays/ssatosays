@@ -1,6 +1,6 @@
 Hi, I’m @ssatosays  :wave: :wave:
 
-## Intro
+## My Info
 
 + GitHub
   - [My profile](https://github.com/ssatosays)
