@@ -1,4 +1,4 @@
-Hi, I’m @ssatosays  :wave: :wave:
+Hi, I’m @ssatosays  :wave: :wave: :wave:
 
 ## My Info
 
