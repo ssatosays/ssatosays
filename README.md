@@ -13,8 +13,6 @@ Hi, I’m @ssatosays  :wave: :wave: :wave:
   - [@ssatosays](https://twitter.com/ssatosays)
 + Qiita
   - [@ssatosays](https://qiita.com/ssatosays)
-+ Blog
-  - [https://ssatosays.github.io/blog/](https://ssatosays.github.io/blog/)
 
 ## My Apps
 
