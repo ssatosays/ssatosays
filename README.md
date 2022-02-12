@@ -4,7 +4,7 @@ Hi, I’m @ssatosays  :wave: :wave: :wave:
 <table>
   <thead>
     <tr>
-      <th colspan="2">My Info</th>
+      <th colspan="2">Code, SNS, Contact</th>
     </tr>
   </thead>
   <tbody>
