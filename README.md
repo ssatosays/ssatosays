@@ -22,7 +22,3 @@ Hi, I’m @ssatosays  :wave: :wave: :wave:
     </tr>
   </tbody>
 </table>
-
-## My Apps
-- tetris (:construction_worker:)
-  - [https://ssatosays.github.io/tetris/](https://ssatosays.github.io/tetris/)
